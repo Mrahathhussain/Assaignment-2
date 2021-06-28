@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    box-sizing: border-box;
+    width: auto;
+}
+.Text{
+    color: darkcyan;
+    margin-left: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 55px;
+    font-style: normal;
+}
+.Text2{
+    color: yellowgreen;
+    margin-left:  100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.Text3{
+    color: darkgrey;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    font-size: 35px;
+    font-weight: 400;
+}
+body{
+    float: both;
+}
+#Box{
+    float: left;
+
+}
+#Box2{
+    float: right;
+}
+h1{
+    font-size: 55px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-weight: 600;
+    color: lightcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: lightcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    font-size: 35px;
+    font-weight: 600;
+    margin-left: 100px;
+    margin-top: 5px;
+    color: lightcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{ 
+    background-color: yellowgreen;
+    border: yellow;
+    width: 500px;
+    border-radius: 10px;
+    height: 100px;    
+    margin-left: 100px;
+    font-size: 40px;
+    color: lightcyan;
+}
+h2{
+    font-size: 45px;
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    color: lightcyan;
+}
+p{
+    color:lightcyan;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.styling{
+    font-size: 40px;
+    color: lightcyan;
+    margin-left: 100px;
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.style2{
+    font-size: 60px;
+}
+.style3{
+    color:lightcyan;
+    font-size: 35px;
+}
